@@ -1,4 +1,4 @@
 HTML5-Asteroids
 ===============
 
-Start your space adventure [here](https://3kh0.github.io/asteroids/)
+Start your space adventure [here](https://rllyr0b3rt.github.io/asteroids/)
